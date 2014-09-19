@@ -4,7 +4,7 @@
 
 ## Data
 
-- [What is OLAP](https://www.youtube.com/watch?v=2ryG3Jy6eIY)
+- [Introduction to OLAP](https://www.youtube.com/watch?v=1Qdf5c_nmtw)
 
 # Tools
 

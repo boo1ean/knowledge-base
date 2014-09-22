@@ -18,3 +18,12 @@ group by dimension-attrs with cube
 # Tools
 
 - [Learn git](https://try.github.io/)
+
+# Infrostructure
+
+- [The Twelve-Factor App](http://12factor.net/)
+
+## PaaS solutions
+
+- [dokku](https://github.com/progrium/dokku)
+- [flynn](https://flynn.io)

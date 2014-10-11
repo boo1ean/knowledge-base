@@ -1,18 +1,8 @@
-## HTML & CSS
+# Continuous stuff
 
-- [Parallax Performance](https://www.youtube.com/watch?v=R6TXuXV1bbY)
-
-## Data
-
-- [Introduction to OLAP](https://www.youtube.com/watch?v=1Qdf5c_nmtw)
-
-# Tools
-
-- [Learn git](https://try.github.io/)
-
-# Infrostructure
-
-- [The Twelve-Factor App](http://12factor.net/)
+- [Drone](https://github.com/drone/drone)
+- [Strider](http://stridercd.com/)
+- [Circle](https://circleci.com/)
 
 ## PaaS solutions
 
@@ -21,6 +11,22 @@
 - [deis](http://deis.io/)
 - [fig](http://www.fig.sh/)
 - [shipyard](http://shipyard-project.com/)
+
+# Tools
+
+- [Learn git](https://try.github.io/)
+
+## HTML & CSS
+
+- [Parallax Performance](https://www.youtube.com/watch?v=R6TXuXV1bbY)
+
+## Data
+
+- [Introduction to OLAP](https://www.youtube.com/watch?v=1Qdf5c_nmtw)
+
+# Infrostructure
+
+- [The Twelve-Factor App](http://12factor.net/)
 
 # Go packages
 
